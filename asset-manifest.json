@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%20//yuro4kaw.github.io/react-task-easy/static/css/main.5239debf.css",
+    "main.js": "/%20//yuro4kaw.github.io/react-task-easy/static/js/main.f92d1bf7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/%20//yuro4kaw.github.io/react-task-easy/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/%20//yuro4kaw.github.io/react-task-easy/index.html",
+    "main.5239debf.css.map": "/%20//yuro4kaw.github.io/react-task-easy/static/css/main.5239debf.css.map",
+    "main.f92d1bf7.js.map": "/%20//yuro4kaw.github.io/react-task-easy/static/js/main.f92d1bf7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/%20//yuro4kaw.github.io/react-task-easy/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5239debf.css",
+    "static/js/main.f92d1bf7.js"
+  ]
+}
